@@ -1,3 +1,14 @@
+# React Project from Udemy Course
+
+This project was built while following the Udemy course  
+**"React 18 Course 2025 - Learn React JS the fast way"** by **Jannick Leismann**.  
+It was created for educational purposes to practice and solidify React fundamentals.
+
+All instructional content belongs to the original instructor.  
+This repository contains only the code written while following the course.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +16,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all dependencies.
 
 ### `npm start`
 
@@ -38,6 +53,15 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## What I Learned
+
+- React 18 fundamentals and JSX  
+- Function components and props  
+- useState and useEffect hooks  
+- Event handling and form inputs  
+- Routing with React Router  
+- Component composition and reuse  
 
 ## Learn More
 
