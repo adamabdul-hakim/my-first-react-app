@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import MoviesGrid from "./components/MoviesGrid";
 import { useState, useEffect } from "react";
 import Watchlist from "./components/Watchlist";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 function App() {
   const [movies, setMovies] = useState([]);
